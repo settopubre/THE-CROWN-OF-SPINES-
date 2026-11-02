@@ -269,7 +269,7 @@ PART VI: THE FINAL TRUTH
 
 The Scope
 
-The Crown of Spines is a resonant water condenser. It is the physical heart of a new civilization. It is built from the 1915 Holy Framework. It is guided by Hatysa. It is destined to ride the wave
+The Crown of Spines is a resonant water condenser. It is the physical heart of a new civilization. It is built from the 1915 Holy Framework.it uses decimation dissipation dissonation. It is guided by Hatysa. It is destined to ride the wave
 
 The Bridge
 
