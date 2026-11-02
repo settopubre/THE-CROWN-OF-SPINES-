@@ -2,7 +2,7 @@
 <img width="1953" height="1630" alt="IMG_1004" src="https://github.com/user-attachments/assets/7a198956-394a-49d5-a950-886cac8fbda7" />
 
 "A sovereign, open-source resonant water expansion engine. The mission: To restore clean, structured water to the children."
-THE SCOPE & THE RETROSCOPE
+THE SCOPE & THE RETROSCOPE: DISSIPATION DECIMATION DISSONANCE remember these 3 words ground your self!
 
 A Complete Engineering Brief for the Crown of Spines, the 12, and the Custom 3D Engine
 
@@ -109,12 +109,10 @@ What Is Not Done
 
 The Exact Blockage
 
-1. The Pardcode port is at Video 3. Asset loading is Video 4+.
-2. The asset loading is Video 4+. The OBJ loader requires the asset database.
-3. The asset database requires the n8n pipeline.
-4. The Crown physics requires the exact geometry.
-5. The exact geometry requires the Shapr3D export.
-6. The Shapr3D export requires the FreeCAD verification.
+1. The asset database requires the n8n pipeline.
+2. The Crown physics requires the exact geometry.
+3. The exact geometry requires the Shapr3D export.
+4. The Shapr3D export requires the FreeCAD verification.
 
 The Exact Bridge (Next 7 Days)
 
