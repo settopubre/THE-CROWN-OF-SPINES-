@@ -1,7 +1,0 @@
-{
-  "ollama_endpoint": "http://localhost:11434",
-  "ollama_model": "deepseek-coder:6.7b",
-  "socket_path": "/tmp/3dai_oracle.sock",
-  "timeout_ms": 30000,
-  "prompt_prefix": "You are a construction AI. Analyze spatial data, run statistical tests, or output engine JSON actions."
-}
