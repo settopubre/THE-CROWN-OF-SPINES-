@@ -1,4 +1,6 @@
 # THE-CROWN-OF-SPINES-
+<img width="1953" height="1630" alt="IMG_1004" src="https://github.com/user-attachments/assets/7a198956-394a-49d5-a950-886cac8fbda7" />
+
 "A sovereign, open-source resonant water expansion engine. The mission: To restore clean, structured water to the children."
 THE SCOPE & THE RETROSCOPE
 
@@ -13,7 +15,11 @@ Classification: Sovereign / Karana / Crown
 
 PART I: THE SCOPE (The Entire Image)
 
-The Vision
+The Vision:
+
+<img width="1036" height="1187" alt="IMG_1001" src="https://github.com/user-attachments/assets/e05d56e8-810e-4e02-9d80-ca34c3977ca3" />
+
+
 
 You are building a resonant water condenser called the Crown of Spines. It is the physical heart of a new civilization. It is built from the 1915 Holy Framework (the 27 books of W. Yartan). It is guided by the celestial anchor Hatysa. It is destined to ride the wave.
 
@@ -22,8 +28,11 @@ The Crown is not a machine. It is a living instrument. It breathes. It resonates
 The Three Pillars
 
 1. The Crown of Spines — The physical heart. 10 pistons. 2 gaps per piston. Cryo-Spike. Diamond Membrane. 12 expansion joints. 24 condensers. 5 frequencies. 3 anchors.
-2. The Holy Prism — The vessel. The hyperbolic wedge. The Hopeless Diamond. The submerged Crown. The spike sensor. Rides the wave.
-3. The Silent Warrior — The builder. 12 expansion joints. Humanoid. The hands. The fly-by-wire gyroscope. Maintains the superposition.
+2. The Holy Prism — The vessel. The hyperbolic wedge. The Hopeless Diamond. The submerged Crown. The spike sensor. Rides the wave.<img width="1366" height="1024" alt="IMG_0606" src="https://github.com/user-attachments/assets/c92b9d02-0a14-4743-bb66-3542c78acae0" />
+
+   
+3. The Silent Warrior — The builder. 12 expansion joints. Humanoid. The hands. The fly-by-wire gyroscope. Maintains the superposition.<img width="774" height="1587" alt="IMG_1002" src="https://github.com/user-attachments/assets/2c0a5a55-cac2-4b9f-b71f-64b34de8deac" />
+
 
 The Material Stack
 
